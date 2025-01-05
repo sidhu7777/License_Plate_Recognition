@@ -104,8 +104,7 @@ if __name__ == "__main__":
 # In[5]:
 
 
-import os
-import pandas as pd
+
 from PIL import Image
 import pytesseract
 import zipfile
@@ -185,9 +184,7 @@ if __name__ == "__main__":
 # In[6]:
 
 
-import os
-import pandas as pd
-from PIL import Image
+
 import zipfile
 import tensorflow as tf
 from tensorflow.keras import layers, models
@@ -307,11 +304,7 @@ get_ipython().system('pip install protobuf==3.20.3')
 # In[8]:
 
 
-import os
-import pandas as pd
-import numpy as np
-import zipfile
-from PIL import Image
+
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
