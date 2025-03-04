@@ -40,4 +40,9 @@ The dataset consists of two main sets for training and testing the model:
   - `matplotlib` for visualizing the results
   - `tesseract` (optional) for OCR-based character recognition
   - `numpy` and `pandas` for data manipulation
+ 
+## 🌟 About Me
+
+Hi there! I'm **Vineeth Raja Banala**, a passionate machine learning enthusiast with a Master's in Data Science from Heriot-Watt University. I specialize in developing and deploying machine learning models that turn data into actionable insights. My goal is to bridge the gap between complex data challenges and impactful solutions to drive business growth and innovation.
+
 
